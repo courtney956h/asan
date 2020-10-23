@@ -28,7 +28,7 @@ ul, ol { list-style-type: none;}
 
 /* 서브페이지 컨텐트박스 최소높이 */
 /* 스마트폰 기본 높이 640px에서 헤더 푸터 제외한 나머지 박스 높이 지정*/
-#content { min-height: 780px; }
+#content { min-height: 380px; }
 
 
 
